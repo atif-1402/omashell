@@ -1,5 +1,5 @@
 # Omashell - Alpha Version
-Omashell is a Quickshell configuration built to feel native on Omarchy OS by DHH. It ships a polished bar, launcher, OSD, settings, and media experience that matches Omarchy’s riced defaults and tooling out of the box. It’s intentionally minimal, fast, and customizable without breaking the visual identity.
+Omashell is a Quickshell configuration inspired by Omarchy OS. It includes a bar, launcher, OSD, settings, and media widgets built while experimenting with Quickshell and customization. The goal is to keep things simple, fast, and easy to tweak.
 
 ---
 
@@ -35,7 +35,7 @@ A fast, minimal launcher for apps, search, and quick actions. It opens instantly
 
 Usage - 
 - Instant search for system actions (Global Search through whole sub menus).
-- Same as Omarchy Walker Menu but with more greater look, Usability and in Quickshell.
+- A Quickshell launcher inspired by the Omarchy Walker menu.
 - Quick sections for utilities and custom menus (Dedicated keybinds for them too).
 - Keyboard‑first: type, hit Enter, done.
 
