@@ -1,5 +1,5 @@
 # Omashell - Alpha Version
-Omashell is a Quickshell configuration inspired by Omarchy OS. It includes a bar, launcher, OSD, settings, and media widgets built while experimenting with Quickshell and customization. The goal is to keep things simple, fast, and easy to tweak.
+Omashell is a Quickshell configuration designed specifically for Omarchy setups. It uses Omarchy scripts and tooling and is intended as a personal customization and learning project rather than a general Quickshell configuration. This project depends on Omarchy components and is mainly intended for Omarchy users.
 
 ---
 
