@@ -3,13 +3,13 @@ Anomshell is a Quickshell configuration designed specifically for Omarchy setups
 
 ---
 
-## Showcase - (There is more) (Changed name preview gonna update soon)
+## Showcase - (There is more)
 
-https://github.com/user-attachments/assets/c5494543-a2bb-4d9e-87ff-f3982a5a8182
+https://github.com/user-attachments/assets/d1263480-0ff5-495d-80c8-605b29049f7e
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/08277fd8-b5a9-48ee-81a6-a9a0fba17c70" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bb68d506-e270-4c1d-bbae-ecaa86840381" />
-<img width="1366" height="768" alt="omashell-2026-03-27-233841" src="https://github.com/user-attachments/assets/08e5a8e9-9c87-4439-933e-56fcde67c805" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/69782742-573b-45ca-b0f7-02a08e08df68" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2f3043f5-6151-4a0f-a479-1fcc4fdd1c46" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/08e5a8e9-9c87-4439-933e-56fcde67c805" />
 
 ---
 
