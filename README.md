@@ -97,6 +97,8 @@ Usage -
 | **SUPER + ESC**                  | Open system menu        |
 | **SUPER + CTRL + V**             | Open clipboard manager  |
 | **SUPER + CTRL + SPACE**         | Open background picker  |
+| **SUPER + CTRL + E**             | Open emoji picker       |
+| **SUPER + CTRL + O**             | Open Toggle Menu        |
 | **SUPER + CTRL + ,**             | Toggle Do Not Disturb   |
 
 ### Media Controls
