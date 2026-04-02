@@ -20,6 +20,7 @@ https://github.com/user-attachments/assets/d1263480-0ff5-495d-80c8-605b29049f7e
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/69782742-573b-45ca-b0f7-02a08e08df68" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2f3043f5-6151-4a0f-a479-1fcc4fdd1c46" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/08e5a8e9-9c87-4439-933e-56fcde67c805" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9f9fb6bc-0863-4823-a091-3d56dcec68d2" />
 
 ---
 
@@ -77,9 +78,17 @@ A clean Manager with organized Clipboard and keybinds
 
 Usage -
 - Both have there Dedicated Keybinds.
-- Image previews in Clipboard with a clear all button 
+- Image previews in Clipboard with a clear all button
 
-### 7) Settings 
+### 7) Widgets
+Clean minimal widgets for Anomshell
+
+Usage -
+- 3+ widgets which can be enable or disable according to your prefrences via Setting
+- Working To-do widget
+- Pomodoro with 25 min focus and 5 min rest timer
+
+### 8) Settings 
 A clean control panel to manage bar style/position, OSD placement, launcher icon, workspace style, and general behavior without touching files. Everything updates live and stays aligned with your theme.
 
 Usage - 
