@@ -49,6 +49,7 @@ Usage -
 - A Quickshell launcher inspired by the Omarchy Walker menu.
 - Quick sections for utilities and custom menus (Dedicated keybinds for them too).
 - Keyboard‑first: type, hit Enter, done.
+- Added flatpak application support
 
 ### 3) Theme and Background Picker
 A new theme and background picker interface.
