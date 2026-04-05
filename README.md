@@ -26,7 +26,7 @@
 
 ---
 
-## 📸 Showcase
+## 📸 Showcase (Video is Outdated)
 
 <div align="center">
 
