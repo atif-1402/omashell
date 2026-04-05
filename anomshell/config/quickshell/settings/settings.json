@@ -1,0 +1,31 @@
+{
+  "notificationPosition": "top-center",
+  "osdPosition": "bottom-center",
+  "barPosition": "top",
+  "barStyle": "dock",
+  "workspaceStyle": "pulse",
+  "launcherIconPreset": "omarchy",
+  "launcherIconSize": 12,
+  "clockWidgetEnabled": true,
+  "clockUse24h": false,
+  "clockWidgetPosX": 0.00008182490892531877,
+  "clockWidgetPosY": 0.3105270127118645,
+  "calendarWidgetEnabled": true,
+  "calendarWidgetPosX": 0,
+  "calendarWidgetPosY": 0.948265625,
+  "pomodoroWidgetEnabled": true,
+  "pomodoroWidgetPosX": 0,
+  "pomodoroWidgetPosY": 0.5580280172413793,
+  "todoWidgetEnabled": false,
+  "todoWidgetPosX": 0.0009854565118397086,
+  "todoWidgetPosY": 0.939828125,
+  "dockPinnedApps": [
+    "org.gnome.Nautilus",
+    "vesktop",
+    "YouTube"
+  ],
+  "dockEnabled": true,
+  "dockAutoHide": true,
+  "rememberSettingsWindowPosition": false,
+  "openSettingsOnGeneralAlways": true
+}
