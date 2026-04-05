@@ -43,6 +43,10 @@ https://github.com/user-attachments/assets/d1263480-0ff5-495d-80c8-605b29049f7e
     <td><img src="https://github.com/user-attachments/assets/08e5a8e9-9c87-4439-933e-56fcde67c805" width="100%" alt="Control Center"/></td>
     <td><img src="https://github.com/user-attachments/assets/9f9fb6bc-0863-4823-a091-3d56dcec68d2" width="100%" alt="Widgets"/></td>
   </tr>
+   <tr>
+    <td><img src="https://github.com/user-attachments/assets/55627e7e-00c9-4505-bec4-1d18e5710877" width="100%" alt="Showcase"/></td>
+    <td><img src="https://github.com/user-attachments/assets/cfc59ad8-17b3-4ea6-8134-493f0b88f49f" width="100%" alt="showcase"/></td>
+  </tr>
 </table>
 
 </div>
@@ -64,6 +68,15 @@ https://github.com/user-attachments/assets/d1263480-0ff5-495d-80c8-605b29049f7e
 - **Notification indicator** — lets you know when something arrives
 - **Settings** — switch bar position, bar style, launcher logo, and workspace style live from the UI
 - Includes Omarchy idle locking and more
+
+---
+
+### ▍Dock
+> Fast minimal and functional dock.
+
+- Main button like launcher and taskmanger always pinned
+- Smart Auto hide setting
+- Right click to pin app to dock
 
 ---
 
@@ -119,6 +132,16 @@ https://github.com/user-attachments/assets/d1263480-0ff5-495d-80c8-605b29049f7e
 
 ---
 
+### ▍Task Manager
+> Clean, minimal TaskManger in quickshell.
+
+- Have $ different Tabs for different things
+- Can kill multiple process by selecting them
+- Play/pause graph to watch carefully
+- More
+
+---
+
 ### ▍Settings
 > A clean control panel. No config file editing required. Everything updates live.
 
@@ -127,6 +150,7 @@ https://github.com/user-attachments/assets/d1263480-0ff5-495d-80c8-605b29049f7e
 - **Launcher** — swap the logo/icon to match your setup
 - **Workspaces** — switch visual styles and adjust numbering display
 - **General** — control shell-wide behavior in one place
+- **More now** — Dock, Widgets and etc
 - Changes apply live — tweak and preview instantly
 
 ---
@@ -148,6 +172,7 @@ https://github.com/user-attachments/assets/d1263480-0ff5-495d-80c8-605b29049f7e
 | `SUPER + CTRL + SPACE` | Open background picker |
 | `SUPER + CTRL + E` | Open emoji picker |
 | `SUPER + CTRL + O` | Open toggle menu |
+| `SHIFT + CTRL + ESCAPE` | Open  Task manager |
 | `SUPER + CTRL + ,` | Toggle Do Not Disturb |
 
 ### Media Controls
